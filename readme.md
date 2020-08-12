@@ -8,11 +8,9 @@ Tested with
 * Maven
 
 For explanation, please visit this article - [Docker and Java Application](https://ihkhan.com/docker/docker-and-java-find-link-app/)
-git clone git@git.rosetta.ericssondevops.com:MMEA/SSE/saudi-arabia/STC/SDF/ecm-eoc/charging_catalog/charging_catalog_sdf_v5.git
 ## How to run this?
 ```bash
-$ git clone https://github.com/mkyong/docker-java
-https://github.com/iqbaliem84/find-links-app.git
+$ git clone https://github.com/iqbaliem84/find-links-app.git
 $ cd docker-java-app
 $ mvn package
 $ java -jar target/find-links.jar https://google.com
